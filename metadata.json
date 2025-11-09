@@ -1,0 +1,5 @@
+{
+  "name": "Task Decomposer AI",
+  "description": "An intelligent application that breaks down large tasks into manageable, 2-minute sub-tasks using the Gemini API, helping you focus and improve productivity.",
+  "requestFramePermissions": []
+}
